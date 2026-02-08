@@ -79,7 +79,7 @@ This application provides GPU-accelerated 3D volume rendering of DICOM image sta
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/amitverma-cf/pacs.git
 cd pacs
 
 # Install dependencies
